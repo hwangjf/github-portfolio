@@ -5,6 +5,8 @@ import Header from './Header';
 import Body from './Body';
 import Footer from './Footer';
 
+// Update with npm run build && npm run deploy
+
 class App extends Component {
   render() {
     return (

@@ -1,3 +1,18 @@
 .App {
-  background-color: "azure"
+  background-color: azure
+}
+
+.Header {
+  border: 1px solid black;
+  height: 20vh;
+}
+
+.Body {
+  border: 1px solid black;
+  height: 70vh;
+}
+
+.Footer {
+  border: 1px solid black;
+  height: 5vh;
 }
